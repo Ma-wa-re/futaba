@@ -1,6 +1,9 @@
 # Created by virtualenvs.in-project setting in poetry.toml
 /.venv/
 
+# Virtual Envrioments
+venv
+
 # Ignore editor files
 .*.swp
 .vs/
