@@ -11,10 +11,6 @@ venv
 *.pyproj
 *.pyproj.user
 
-# Configuration
-/config*.toml
-/futaba.service
-
 # Artifacts
 __pycache__
 unidata-blocks.txt
@@ -29,3 +25,6 @@ unidata-blocks.txt
 *.bak
 *~
 *#
+
+# Vscode
+.vscode/
