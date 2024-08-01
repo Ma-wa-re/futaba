@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.rulers": [
+        120
+    ],
+    "editor.formatOnSave": true
+}
